@@ -55,7 +55,7 @@ body {
     padding: 40px;
 }
 .my-page-main .col-xs-12{
-    box-shadow: 2px 4px 25px #888888;
+    box-shadow: 2px 4px 50px #888888;
     padding: 0;
 }
 
@@ -73,10 +73,11 @@ body {
     box-shadow: 0 0 0 0;
 }
 .my-page-main .my-item .my-video-info a{
-    color: darkblue;
+    color: #1a008b;
 }
 .my-dl h4{
     display: inline;
     margin-left: 10px;
     font-weight: 900;
+    font-family: "Microsoft YaHei","SimHei","YouYuan";
 }
