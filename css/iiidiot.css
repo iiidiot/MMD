@@ -1,6 +1,7 @@
 body {
     font-family: "YouYuan", "Microsoft YaHei", "SimHei";
     min-width: 1170px!important;
+    transform-origin: 0 0;
 }
 
 /*==================================header====================================================*/
