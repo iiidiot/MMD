@@ -12,6 +12,7 @@ body {
     height: 400px;
     padding: 0 10px;
     margin: 0;
+    min-width: 1170px!important;
 }
 
 .my-page-header .col-xs-6{
@@ -51,6 +52,9 @@ body {
 }
 
 /*==================================main====================================================*/
+.container{
+    min-width: 1170px!important;
+}
 .my-page-main{
     margin: 50px auto;
 }
